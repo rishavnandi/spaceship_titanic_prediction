@@ -13,6 +13,6 @@
 
 ## Dependencies
 
-pandas
-matplotlib
-scikit-learn
+- pandas
+- matplotlib
+- scikit-learn
